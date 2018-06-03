@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "postinstall": "psc-package install",
+    "validate": "pulp run"
+  },
+  "devDependencies": {
+    "psc-package": "^0.3.2",
+    "pulp": "^12.2.0",
+    "purescript": "^0.11.7"
+  }
+}
