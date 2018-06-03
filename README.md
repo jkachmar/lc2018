@@ -17,10 +17,15 @@ If you visit any of these exercise links, you'll have to add a certificate
 exception!
 
 [Exercise 1.1](http://bit.ly/2sckTgl)
+
 [Exercise 1.2](http://bit.ly/2LyG6t9)
+
 [Exercise 2](http://bit.ly/2xeF6XT)
+
 [Exercise 3](http://bit.ly/2GWa0Uh)
+
 [Exercise 4](http://bit.ly/2Jcu2PK)
+
 [Exercise 5](http://bit.ly/2kLTaiw)
 
 ## Local Exercises
@@ -33,8 +38,13 @@ utilities).
 Follow the instructions at each of the exercise subdirectories:
 
 [Exercise 1.1](./ex1.1)
+
 [Exercise 1.2](./ex1.2)
+
 [Exercise 2](./ex2)
+
 [Exercise 3](./ex3)
+
 [Exercise 4](./ex4)
+
 [Exercise 5](./ex5)
