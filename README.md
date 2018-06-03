@@ -9,6 +9,10 @@ section below).
 If you'd rather build and run locally, follow the instructions in the Local 
 Exercises section below.
 
+## Slides
+
+Presentation slides can be found [here](https://docs.google.com/presentation/d/1GBUM0e4NcocM12zJ0lM1U4WXLRukT7JS0M7EUUNKKew/edit?usp=sharing)
+
 ## Try PureScript Exercises
 
 As of June 4th, 2018 Try PureScript has an invalid certificate. 
